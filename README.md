@@ -1,5 +1,5 @@
 # Air-URJCellers
-Come see the world with our agency Air-URJCelers. Special discounts for students and many more advantages that will make you and your family desire to travel with us.
+Come see the world with our agency Air-URJCellers. Special discounts for students and many more advantages that will make you and your family desire to travel with us.
 
 ### Author
 My name is Denise Ayala Padrón, I am a student of the software engineering degree at the URJC in Madrid, Spain. If you want to contact me you can mail me to: d.ayala.2016@alumnos.urjc.es. For following my activity as a developer look for me on GitHub as Lalita 14.
