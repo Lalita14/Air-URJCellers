@@ -5,7 +5,7 @@ Come see the world with our agency Air-URJCelers. Special discounts for students
 My name is Denise Ayala Padrón, I am a student of the software engineering degree at the URJC in Madrid, Spain. If you want to contact me you can mail me to: d.ayala.2016@alumnos.urjc.es. For following my activity as a developer look for me on GitHub as Lalita 14.
 
 ### Trello
-To manage my project, I support myself in the Trello tool. Here I leave the link in case you want to take a look: [Air-URJCelers Trello](https://trello.com/b/OU6NyUcA/air-urjcelers "Air-URJCelers Trello")
+To manage my project, I support myself in the Trello tool. Here I leave the link in case you want to take a look: [Air-URJCellers Trello](https://trello.com/b/OU6NyUcA/air-urjcellers "Air-URJCellers Trello")
 
 ### Entities of the DB
 * Travel offers
